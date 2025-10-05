@@ -158,13 +158,6 @@ The project achieved a **59.73% profit margin** with **$1.76M total sales**, unc
 By integrating strong data cleaning, relational modeling, and pivot-driven analysis, this project showcases a complete end-to-end Excel analytics workflow.
 
 ---
-## 📊 Dashboard Preview
-
-![Food Mart Dashboard](images/1st_Dashboard.png)
-![Food Mart Dashboard](images/2nd_Dashboard.png)
-![Food Mart Dashboard](images/3rd_Dashboard.png)
-
----
 
 ## 👨‍💻 Team
 
@@ -178,10 +171,16 @@ By integrating strong data cleaning, relational modeling, and pivot-driven analy
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/omarhamed888" width="100px;" alt="Omar Hamed"/><br />
+        <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100px;" alt="Omar Hamed"/><br />
         <sub><b>Omar Hamed Ali AboElsoud</b></sub>
       </a>
     </td>
   </tr>
 </table>
 
+---
+## 📊 Dashboard Preview
+
+![Food Mart Dashboard](images/1st_Dashboard.png)
+![Food Mart Dashboard](images/2nd_Dashboard.png)
+![Food Mart Dashboard](images/3rd_Dashboard.png)
