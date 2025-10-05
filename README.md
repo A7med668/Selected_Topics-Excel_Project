@@ -166,7 +166,22 @@ By integrating strong data cleaning, relational modeling, and pivot-driven analy
 
 ---
 
-👨‍💻 **Team**  
-**Ahmed Hussein Ali Abdelsalam Hussein**  
-**Omar Hamed Ali AboElsoud**  
+## 👨‍💻 Team
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/A7med668">
+        <img src="https://avatars.githubusercontent.com/A7med668" width="100px;" alt="Ahmed Hussein"/><br />
+        <sub><b>Ahmed Hussein Ali Abdelsalam Hussein</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/omarhamed888" width="100px;" alt="Omar Hamed"/><br />
+        <sub><b>Omar Hamed Ali AboElsoud</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
