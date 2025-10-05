@@ -166,32 +166,15 @@ By integrating strong data cleaning, relational modeling, and pivot-driven analy
 
 ## 👨‍💻 Team
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; background-color: #0d1117; padding: 30px; border-radius: 20px;">
+<div align="center">
 
-  <!-- Ahmed -->
-  <div style="border: 2px solid #58a6ff; border-radius: 15px; width: 220px; padding: 20px; background-color: #161b22; box-shadow: 0 4px 12px rgba(88,166,255,0.2); transition: transform 0.3s; text-align: center;">
-    <a href="https://github.com/A7med668" target="_blank" style="text-decoration: none; color: #e6edf3;">
-      <img src="https://avatars.githubusercontent.com/A7med668" width="120px" style="border-radius: 50%; border: 3px solid #58a6ff;"/>
-      <h3 style="margin-top: 10px; color: #58a6ff;">Ahmed Hussein<br>Ali Abdelsalam Hussein</h3>
-      <p style="margin: 5px 0; color: #c9d1d9;">👨‍💻 Data Science Student</p>
-      <b style="color: #58a6ff;">🔗 GitHub:</b><br>
-      <span style="color: #8ab4f8;">A7med668</span>
-    </a>
-  </div>
-
-  <!-- Omar -->
-  <div style="border: 2px solid #58a6ff; border-radius: 15px; width: 220px; padding: 20px; background-color: #161b22; box-shadow: 0 4px 12px rgba(88,166,255,0.2); transition: transform 0.3s; text-align: center;">
-    <a href="https://github.com/omarhamed888" target="_blank" style="text-decoration: none; color: #e6edf3;">
-      <img src="https://avatars.githubusercontent.com/omarhamed888" width="120px" style="border-radius: 50%; border: 3px solid #58a6ff;"/>
-      <h3 style="margin-top: 10px; color: #58a6ff;">Omar Hamed<br>Ali AboElsoud</h3>
-      <p style="margin: 5px 0; color: #c9d1d9;">👨‍💻 Data Science Student</p>
-      <b style="color: #58a6ff;">🔗 GitHub:</b><br>
-      <span style="color: #8ab4f8;">omarhamed888</span>
-    </a>
-  </div>
+| [<img src="https://avatars.githubusercontent.com/A7med668" width="120px" style="border-radius:50%; border:3px solid #58a6ff;">](https://github.com/A7med668) | [<img src="https://avatars.githubusercontent.com/omarhamed888" width="120px" style="border-radius:50%; border:3px solid #58a6ff;">](https://github.com/omarhamed888) |
+|:--:|:--:|
+| <span style="color:#58a6ff; font-weight:bold;">Ahmed Hussein<br>Ali Abdelsalam Hussein</span> | <span style="color:#58a6ff; font-weight:bold;">Omar Hamed<br>Ali AboElsoud</span> |
+| <span style="color:#8ab4f8;">👨‍💻 Data Science Student</span> | <span style="color:#8ab4f8;">👨‍💻 Data Science Student</span> |
+| [<span style="color:#58a6ff;">🔗 GitHub Profile</span>](https://github.com/A7med668) | [<span style="color:#58a6ff;">🔗 GitHub Profile</span>](https://github.com/omarhamed888) |
 
 </div>
-
 
 ---
 ## 📊 Dashboard Preview
