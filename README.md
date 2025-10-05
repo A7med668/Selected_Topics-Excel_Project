@@ -166,6 +166,7 @@ By integrating strong data cleaning, relational modeling, and pivot-driven analy
 
 ---
 
-👨‍💻 **Developed by:**  
-**Ahmed Hussein Ali Abdelsalam Hussein**
-**Omar Hamed Ali AboElsoud
+👨‍💻 **Team**  
+**Ahmed Hussein Ali Abdelsalam Hussein**  
+**Omar Hamed Ali AboElsoud**  
+
