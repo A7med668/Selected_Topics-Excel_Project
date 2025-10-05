@@ -161,6 +161,8 @@ By integrating strong data cleaning, relational modeling, and pivot-driven analy
 ## 📊 Dashboard Preview
 
 ![Food Mart Dashboard](images/1st_Dashboard.png)
+![Food Mart Dashboard](images/2nd_Dashboard.png)
+![Food Mart Dashboard](images/3rd_Dashboard.png)
 
 ---
 
