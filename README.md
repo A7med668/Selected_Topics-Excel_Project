@@ -1,7 +1,5 @@
 # 🛒 Food Mart Retail Analysis Project
 
-# 🛒 Food Mart Retail Analysis Project
-
 <p align="center">
   <img src="images/Food Mart.jpg" alt="Food Mart Dashboard Preview" width="800"/>
 </p>
