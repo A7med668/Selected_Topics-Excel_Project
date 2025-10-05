@@ -1,5 +1,11 @@
 # 🛒 Food Mart Retail Analysis Project
 
+# 🛒 Food Mart Retail Analysis Project
+
+<p align="center">
+  <img src="images/Food Mart.jpg" alt="Food Mart Dashboard Preview" width="800"/>
+</p>
+
 The **Food Mart Retail Analysis** project is a comprehensive **data cleaning, modeling, and visualization** initiative built entirely in **Microsoft Excel**.  
 It aims to deliver actionable business insights into sales performance, profitability, customer behavior, and regional trends for a retail business.  
 The dashboard consolidates key metrics and KPIs to support data-driven decision-making.
