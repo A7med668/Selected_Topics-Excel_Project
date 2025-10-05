@@ -167,6 +167,5 @@ By integrating strong data cleaning, relational modeling, and pivot-driven analy
 ---
 
 👨‍💻 **Developed by:**  
-**Ahmed Hussein Ali Abdelsalam Hussein**  
-Data Science Junior | Faculty of Artificial Intelligence, Menoufia University  
-📧 [GitHub Profile](https://github.com/A7med668)
+**Ahmed Hussein Ali Abdelsalam Hussein**
+**Omar Hamed Ali AboElsoud
