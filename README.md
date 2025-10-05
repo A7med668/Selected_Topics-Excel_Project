@@ -171,7 +171,7 @@ By integrating strong data cleaning, relational modeling, and pivot-driven analy
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/omarhamed888" width="100px;" alt="Omar Hamed"/><br />
+        <img src="https://avatars.githubusercontent.com/omarhamed888" width="100px;" alt="Omar Hamed"/><br />
         <sub><b>Omar Hamed Ali AboElsoud</b></sub>
       </a>
     </td>
