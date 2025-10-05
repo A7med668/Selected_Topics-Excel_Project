@@ -1,4 +1,4 @@
-                      # 🛒 Food Mart Retail Analysis Project
+<h1 align="center">🛒 Food Mart Retail Analysis Project</h1>
 
 <p align="center">
   <img src="images/Food Mart.jpg" alt="Food Mart Dashboard Preview" width="800"/>
