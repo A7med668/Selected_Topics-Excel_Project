@@ -40,8 +40,8 @@ The dashboard provides a high-level overview of Food Mart’s financial and oper
 
 ### 1. Top 10 Brands
 Bar chart showing leading brands by sales volume:
-- **Top Brand:** Hemasos ($57k)
-- Other notable brands: Tell Tale ($52k), Ebony ($50k), Tri-State ($49k), High Top ($47k), Nationale ($46k)
+- **Top Brand:** Hermanos ($57k)
+- Other notable brands: Tell Tale ($52k), Ebony ($50k), Tri-State ($49k), High Top ($47k), Nationeel ($46k)
 
 → *Hemasos leads the market, followed by a diverse portfolio of strong brands.*
 
@@ -56,17 +56,18 @@ Horizontal bar chart of highest-spending customers:
 ---
 
 ### 3. Top 5 Regions
-- **North West:** $330k  
-- **Canada:** $107k  
-- **South West:** $30.8k  
-- **Mexico:** $7.2k  
+- **North West:** $847.8k
+- **Mexico Central:** $330.3   
+- **South West:** $320.8k  
+- **Canda West:** $170.7k
+- **Mexico South:** $87.2k 
 
 → *North West dominates in regional performance.*
 
 ---
 
 ### 4. Sales Trendline (Monthly)
-Sales across 12 months (1997–1998) show a steady increase, peaking in **December ($177.7k)**.  
+Sales across 12 months (1997–1998) show a steady increase, peaking in **December ($177.1k)**.  
 → *Indicates strong holiday season performance.*
 
 ---
@@ -110,8 +111,8 @@ Highest returned products include **Hermanos Red Pepper (17 returns)** and **Ora
 ---
 
 ### 11. Profit by Gender
-- **Female:** $532k  
-- **Male:** $20.6k  
+- **Female:** $532.09k  
+- **Male:** $520.69k  
 → *Women represent the majority of profit contribution.*
 
 ---
@@ -131,9 +132,9 @@ Highest returned products include **Hermanos Red Pepper (17 returns)** and **Ora
 ---
 
 ### 14. Profit by Store Country
-- **USA:** 67% ($331.8k)  
-- **Canada:** 27% ($107.2k)  
-- **Mexico:** 6% ($7.2k)  
+- **USA:** 67%
+- **Mexico:** 27%
+- **Canada:** 6%  
 → *The USA dominates overall profit generation.*
 
 ---
