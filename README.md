@@ -164,7 +164,7 @@ By integrating strong data cleaning, relational modeling, and pivot-driven analy
 
 ---
 
-## 👨‍💻 Team
+## 👨‍💻 Team members
 
 <div align="center">
 
